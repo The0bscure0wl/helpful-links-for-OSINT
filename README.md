@@ -20,19 +20,21 @@ Passendes YT-Video dazu (ab Minute 9:00): [TIDETVhamburg](https://www.youtube.co
 
 
 ## GEOLOCATION
-### SATELLITENBILDER
+### SATELLITENBILDER 🛰
 - [Maxar](https://discover.maxar.com/)
 - [Planet](https://www.planet.com/explorer)
 - [NASA/ESA](https://apps.sentinel-hub.com/eo-browser/)
 
-### LEUCHTTÜRME WELTWEIT
-- [World of Lighthouses](https://lightphotos.net/photos/map_all.php)
+### LEUCHTTÜRME WELTWEIT 
+Webseite über Leuchttürme aus der ganzen Welt. Fotos von Leuchttürmen finden und auch Informationen über sie lesen.</br>
+[World of Lighthouses](https://lightphotos.net/photos/map_all.php)
 
 ## VERKEHR / TRAFFIC
-### MARINE VERKEHR WELTWEIT
-- [Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:-11.9/centery:24.7/zoom:4)
+### MARINE VERKEHR WELTWEIT ⛴
+Eine Webseite, die Schiffspositionen und Verkehrsdaten in Echtzeit anzeigt.</br>
+[Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:-11.9/centery:24.7/zoom:4)
 
-### AUTOKENNZEICHEN WELTWEIT
+### AUTOKENNZEICHEN WELTWEIT 🚗
 Sie wollen wissen, wie ein Autokennzeichen in Chile aussieht? Wie sahen Autokennzeichen in Deutschland früher aus?</br>
 Folgende Seite weiss es:</br>
 [Fahrzeugkennzeichen der ganzen Welt](http://www.worldlicenseplates.com/)
