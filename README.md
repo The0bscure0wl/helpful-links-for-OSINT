@@ -11,4 +11,11 @@ Sie enthält eine große Sammlung von aktuellen und historischen Datenbanken, Do
 
 Passendes Video dazu (ab Minute 9:00): https://www.youtube.com/watch?v=PdCwvqWpDlc <br>
 
+## REVERSE IMAGE SEARCH <br>
+### TOOLS FÜR DIE BILDER RÜCKWÄRTSSUCHE
 
+[enter link description here](https://tineye.com/)
+[enter link description here](http://karmadecay.com/)
+[enter link description here](https://yandex.com/images/)
+[enter link description here](https://www.bing.com/visualsearch)
+[enter link description here](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/)
