@@ -38,6 +38,22 @@ Eine Webseite, die Schiffspositionen und Verkehrsdaten in Echtzeit anzeigt.</br>
 Sie wollen wissen, wie ein Autokennzeichen in Chile aussieht? Wie sahen Autokennzeichen in Deutschland früher aus?</br>
 Folgende Seite weiss es:</br>
 [Fahrzeugkennzeichen der ganzen Welt](http://www.worldlicenseplates.com/)
+
+### PERSONENSUCHE
+## INFORMATIONEN ZU PERSONEN IM FINDEN
+
+Findet allgemeine Informationen und Profile von Personen
+- [Webmii](https://webmii.com/)
+</br>
+Pipl ist die grösste Personensuchmaschine der Welt. Kauft die Daten ein.</br>
+- [Pipl](https://pipl.com/)
+Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watch?v=xzPSFYb8G3I)
+
+## NACH VERSTORBENEN PERSOEN SUCHEN
+
+- [Friedhöfe](https://de.findagrave.com/cemetery)
+
+
   
 
 
