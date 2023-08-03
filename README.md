@@ -9,6 +9,7 @@ Datenplattform von OCCRP, (Organized Crime and Corruption Reporting Project.
 Sie enthält eine große Sammlung von aktuellen und historischen Datenbanken, Dokumenten, Leaks und Ermittlungen.
 
 Passendes YT-Video dazu (ab Minute 9:00): [TIDETVhamburg](https://www.youtube.com/watch?v=PdCwvqWpDlc)
+
 ## REVERSE IMAGE SEARCH
 ### TOOLS FÜR DIE BILDER RÜCKWÄRTSSUCHE
 
@@ -70,6 +71,16 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 ### FINGERPRINT & FOOTPRINT
 
 - [Your Social Media Fingerprint](https://robinlinus.github.io/socialmedia-leak/)
+
+## NETZWERK
+### IP WHOIS LOOKUP DNS SEO E-MAIL TOOLS
+
+- [IP Location](https://iplocation.io/all-tools)
+- [DNS Dumpster](https://dnsdumpster.com/)
+- [WHOIS Domaintools](https://whois.domaintools.com/)
+- [View DNS](https://viewdns.info/)
+- [Netcraft](https://www.netcraft.com/tools/)
+
 
 
 
