@@ -53,6 +53,17 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 
 - [Friedhöfe](https://de.findagrave.com/cemetery)
 
+## KOSTEN
+### PAYWALL UMGEHEN
+
+- [12ft LADDER](https://12ft.io/)
+
+## SOCIAL MEDIA
+### FINGERPRINT & FOOTPRINT
+
+- [Your Social Media Fingerprint](https://robinlinus.github.io/socialmedia-leak/)
+
+
 
   
 
