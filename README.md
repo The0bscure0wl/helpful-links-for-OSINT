@@ -81,6 +81,16 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 - [View DNS](https://viewdns.info/)
 - [Netcraft](https://www.netcraft.com/tools/)
 
+## HACKING & SECURITY
+### Hashes
+
+- [MD5 HASHING](https://md5hashing.net)
+- [CRACKSTATION](https://crackstation.net/)
+- [Password Hash Identification](https://www.onlinehashcrack.com/hash-identification.php)
+- [Hashcat Docs Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
+
+
+
 
 
 
