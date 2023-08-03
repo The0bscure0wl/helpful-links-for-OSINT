@@ -29,10 +29,18 @@ Passendes YT-Video dazu (ab Minute 9:00): [TIDETVhamburg](https://www.youtube.co
 Webseite über Leuchttürme aus der ganzen Welt. Fotos von Leuchttürmen finden und auch Informationen über sie lesen.</br>
 [World of Lighthouses](https://lightphotos.net/photos/map_all.php)
 
+### WEBCAMS WELTWEIT
+Travel the globe with EarthCam's LIVE webcams!</br>
+[EarthCam](https://www.earthcam.com/network/)
+
 ## VERKEHR / TRAFFIC
 ### MARINE VERKEHR WELTWEIT ⛴
 Eine Webseite, die Schiffspositionen und Verkehrsdaten in Echtzeit anzeigt.</br>
 [Marine Traffic](https://www.marinetraffic.com/en/ais/home/centerx:-11.9/centery:24.7/zoom:4)
+
+### BAHN VERKEHR EUROPA
+Aktuelle Zugpositionen und Statistiken der Fernzüge in Deutschland, Österreich, BeNeLux, Dänemark, Italien und Slowenien.</br>
+[Zugfinder](https://www.zugfinder.net/de/start)
 
 ### AUTOKENNZEICHEN WELTWEIT 🚗
 Sie wollen wissen, wie ein Autokennzeichen in Chile aussieht? Wie sahen Autokennzeichen in Deutschland früher aus?</br>
