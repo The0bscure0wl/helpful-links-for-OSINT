@@ -89,6 +89,15 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 - [Password Hash Identification](https://www.onlinehashcrack.com/hash-identification.php)
 - [Hashcat Docs Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
 
+### Passwords
+
+- [Wie sicher ist mein Passwort?](https://www.security.org/how-secure-is-my-password/)
+- [Passwortcheck schweizer Webseite](https://www.passwortcheck.ch/)
+- [Default Password DB CIRT](https://cirt.net/passwords)
+- [Default Router Passwords](https://www.routerpasswords.com/)
+- [Default Password](https://default-password.info/)
+
+
 
 
 
