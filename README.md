@@ -49,7 +49,7 @@ Folgende Seite weiss es:</br>
 [Fahrzeugkennzeichen der ganzen Welt](http://www.worldlicenseplates.com/)
 
 ## PERSONENSUCHE
-### INFORMATIONEN ZU PERSONEN IM FINDEN
+### Inofmationen zu Personen finden
 
 Findet allgemeine Informationen und Profile von Personen
 - [Webmii](https://webmii.com/)
@@ -58,7 +58,26 @@ Pipl ist die grösste Personensuchmaschine der Welt. Kauft die Daten ein.
 - [Pipl](https://pipl.com/)
 Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watch?v=xzPSFYb8G3I)
 
-### NACH VERSTORBENEN PERSOEN SUCHEN
+### Usernamen checken & finden Websites
+- [Check User Names](http://www.checkusernames.com)
+- [IDCrawl](https://www.idcrawl.com/username) 
+- [Name Chk](http://www.namechk.com)
+- [Name Checkr](http://www.namecheckr.com)
+- [Verfügbaren Benutzernamen finden](https://namecheckup.com) 
+- [NameKetchup](https://nameketchup.com) 
+- [User Search](http://www.usersearch.org)
+- [WhatsMyName](https://whatsmyname.app/)
+- [User Searcher](https://www.user-searcher.com)
+
+ ### Usernamen checken & finden Websites Tools from Github
+- [NexFil](https://github.com/thewhiteh4t/nexfil) 
+- [Seekr](https://github.com/seekr-osint/seekr)
+- [Sherlock](https://github.com/sherlock-project/sherlock) 
+- [Snoop](https://github.com/snooppr/snoop/blob/master/README.en.md) 
+- [Maigret](https://github.com/soxoj/maigret) 
+- [Blackbird](https://github.com/p1ngul1n0/blackbird) 
+
+### Nach verstorbenen Personen suchen
 
 - [Friedhöfe](https://de.findagrave.com/cemetery)
 
