@@ -116,8 +116,10 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 - [Default Router Passwords](https://www.routerpasswords.com/)
 - [Default Password](https://default-password.info/)
 
+## Zeitzonen, Zeitverschiebung 
 
-
+### Zeitunterschied, Uhrzeiten im direkten Vergleich
+- [Zeitverschiebung.net](https://www.zeitverschiebung.net/de/)
 
 
 
