@@ -1,4 +1,4 @@
-# Hilfreiche Links zum Thema OSINT
+# Hilfreiche Links zum Thema OSINT - Security - Hacking
 DE: Folgend finden Sie eine Liste mit hilfreichen Links zum Thema OSINT.
 
 ## UNTERNEHMENSRECHERCHEN<br>
@@ -121,7 +121,9 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 ### Zeitunterschied, Uhrzeiten im direkten Vergleich
 - [Zeitverschiebung.net](https://www.zeitverschiebung.net/de/)
 
-
+## ICT - Wissen
+### Computing and ICT in a Nutshell
+- [Advanced ICT](https://www.advanced-ict.info/)
 
 
   
