@@ -125,7 +125,14 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 ### Computing and ICT in a Nutshell
 - [Advanced ICT](https://www.advanced-ict.info/)
 
+## Programmierung
+### Online Programmieren lernen
+Verschiedene Programmiersprachen:
+- [Programiz](https://www.programiz.com/)
+- [Free Code Camp](https://www.freecodecamp.org/)
 
+Einstieg in HTML, CSS und JavaScript
+- [Self HTML](https://wiki.selfhtml.org/wiki/SELFHTML)
   
 
 
