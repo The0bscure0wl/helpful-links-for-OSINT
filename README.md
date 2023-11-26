@@ -99,6 +99,7 @@ Informatives YT Video von Netzwerk Recherche dazu: (https://www.youtube.com/watc
 - [WHOIS Domaintools](https://whois.domaintools.com/)
 - [View DNS](https://viewdns.info/)
 - [Netcraft](https://www.netcraft.com/tools/)
+- [ICANN Lookup](https://lookup.icann.org/)
 
 ## HACKING & SECURITY
 ### Hashes
