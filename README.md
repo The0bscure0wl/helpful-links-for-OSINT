@@ -19,6 +19,9 @@ Passendes YT-Video dazu (ab Minute 9:00): [TIDETVhamburg](https://www.youtube.co
  - [Bing (Microsoft)](https://www.bing.com/visualsearch)
  - [Mozilla Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/image-reverse-search/)
 
+[Leitfaden zur Verwendung von Reverse Image Search für Ermittlungen:]
+(https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
+
 
 ## GEOLOCATION
 ### SATELLITENBILDER 🛰
