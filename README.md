@@ -54,6 +54,9 @@ Folgende Seite weiss es:</br>
 ## PERSONENSUCHE
 ### Inofmationen zu Personen finden
 
+Guter Leitfaden OSINT / Personensuche
+- [Molfar](https://molfar.com/en/blog/how-to-find-information-on-anyone-the-best-osint-tools-for-people-search)
+
 Findet allgemeine Informationen und Profile von Personen
 - [Webmii](https://webmii.com/)
 
